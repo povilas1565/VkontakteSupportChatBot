@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "google-spreadsheet": "^3.3.0",
+    "node-vk-bot-api": "^3.5.0",
     "vkontakte": "^0.3.0"
   }
 }

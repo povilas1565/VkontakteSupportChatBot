@@ -1,5 +1,6 @@
-const {session, Markup, Scenes, Vkontakte} = require('vkontakte')
-const bot = new Vkontakte("")
+const {session, Markup, Scenes} = require('node-vk-bot-api')
+const {v} = require('vkontakte')
+const bot = new VkBot("")
 const Sheets = require("./Sheet.js")
 const sheets = new Sheets();
 

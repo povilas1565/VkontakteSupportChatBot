@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "vkontakte": "^0.3.0"
+  }
+}
